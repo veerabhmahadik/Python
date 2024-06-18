@@ -1,8 +1,5 @@
 # Regression Prediction Project
 
-## Title
-Predicting Weight Based on Multiple Predictors
-
 ## Description
 This project aims to predict a person's weight based on several factors using linear regression models. The primary objective is to determine the most effective model for accurate predictions by comparing models with different numbers of predictors.
 
