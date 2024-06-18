@@ -30,6 +30,9 @@ This project focuses on building a predictive model for a retail company that se
 - Predicting customer response to future catalog mailings.
 - Identifying key factors influencing customer purchases.
 - Optimizing marketing strategies by targeting the right customers.
+- Use the following in colab: <a target="_blank" href="https://colab.research.google.com/github/veerabhmahadik/Python-and-R">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 #### Issues or Limitations
 - The model's accuracy is dependent on the quality and completeness of the data.
