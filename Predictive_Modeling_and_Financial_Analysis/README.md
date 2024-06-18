@@ -10,7 +10,7 @@ The project can be used to:
 - Predict customer responses to future promotional campaigns.
 - Identify key factors influencing customer purchases.
 - Optimize marketing strategies by targeting potential high-value customers.
-- Use this link to view the project in colab:<a target="_blank" href="https://colab.research.google.com/github/veerabhmahadik/Python-and-R/tree/master/Predictive_Modeling_and_Financial_Analysis">
+- Use this link to view the project in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/veerabhmahadik/Python-and-R/tree/master/Predictive_Modeling_and_Financial_Analysis">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
