@@ -1,6 +1,4 @@
-Sure! Here’s a comprehensive README.md file for the repository based on the initial instructions and the contents of the three folders:
 
-```markdown
 # Projects in Python and R
 
 ## Description
